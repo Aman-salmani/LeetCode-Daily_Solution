@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -41,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Stack
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -55,4 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Array
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
