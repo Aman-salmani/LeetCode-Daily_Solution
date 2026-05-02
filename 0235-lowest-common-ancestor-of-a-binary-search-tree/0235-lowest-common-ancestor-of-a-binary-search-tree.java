@@ -10,22 +10,19 @@
 
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        if(root == null || root.val == p.val || root.val == q.val){
-             //if root is null or equl to target return root//
-            return root;  
+        if(root == null){
+            return null;
         }
-        TreeNode left = lowestCommonAncestor(root.left,p,q); 
-        //search leftSubtree for targer//
-        TreeNode right = lowestCommonAncestor(root.right,p,q);
-        //Search rightSubtree for Target//
-        if(left == null){
-            return right;
-            //if left null i.e.traget must be in right//
+        //if bothin left//
+        if(q.val < root.val && p.val < root.val){
+            return lowestCommonAncestor(root.left,p,q);
         }
-        if(right == null){
-            return left;
-            //if right null target must be in left//
+        //if both in right//
+        if(p.val>root.val && q.val > root.val){
+            return lowestCommonAncestor(root.right,p,q);
         }
-        return root; //it mean target in both left and right subtree//
+        //both in left and right SUbtree//
+        return root;
+
     }
 }
