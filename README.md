@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0208-implement-trie-prefix-tree) |
 ## Iterator
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -108,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
