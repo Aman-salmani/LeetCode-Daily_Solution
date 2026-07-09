@@ -28,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0547-number-of-provinces](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -122,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0211-design-add-and-search-words-data-structure) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
