@@ -68,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Array
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0347-top-k-frequent-elements) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0347-top-k-frequent-elements) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -144,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0787-cheapest-flights-within-k-stops) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
