@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0211-design-add-and-search-words-data-structure) |
+| [3498-reverse-degree-of-a-string](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/3525-find-x-value-of-array-ii) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
