@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/0347-top-k-frequent-elements) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3525-find-x-value-of-array-ii](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/3525-find-x-value-of-array-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -155,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Math
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/3525-find-x-value-of-array-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/Aman-salmani/LeetCode-Daily_Solution/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
